@@ -2,7 +2,7 @@
 
  Cybersecurity | AI & Automation | FOSS | Open-source contributor | Web development 
 
-## 🛠️ Skills
+## Skills
 
 - Python
 - Git & GitHub
