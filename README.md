@@ -1,4 +1,4 @@
-# Heyy, I'm Reeyaa! 👋
+# Holaa, I'm Reeyaa!
 
  Cybersecurity | AI & Automation | FOSS | Open-source contributor | Web development 
 
@@ -15,10 +15,9 @@
 
 - *Say It Back* - AI-powered tone mirror and fixer
 - *Synapz* - Interactive quiz game
+- *Tic Tac Toe* - Interactive two players game
 
 ## Connect
 You can also connect with me on: 
 Linkedin - (Reeya Pandey) www.linkedin.com/in/reeya-pandey-02378a384
 Mail ID - reeya0184@gmail.com
-
-I appreciate your time for my profile
