@@ -20,4 +20,3 @@
 ## Connect
 You can also connect with me on: 
 Linkedin - (Reeya Pandey) www.linkedin.com/in/reeya-pandey-02378a384
-Mail ID - reeya0184@gmail.com
