@@ -1,4 +1,4 @@
-# Holaa, I'm Reeyaa!
+# Hiee, I'm Reeyaa!
 
  Cybersecurity | AI & Automation | FOSS | Open-source contributor | Web development 
 
