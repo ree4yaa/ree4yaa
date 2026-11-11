@@ -14,7 +14,7 @@ I'm a developer passionate about building things, exploring new technologies, an
 - 💻 Software Development
 - 🌐 FOSS
 
-### ⚡ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,react,html,css,git,github,linux,vscode,vite" />
