@@ -35,12 +35,6 @@ I'm a developer passionate about building things, exploring new technologies, an
 - Understanding AI-powered automation.
 - Exploring open-source contribution opportunities.
 
-### GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ree4yaa&theme=tokyonight&hide_border=true" />
-</p>
-
 ### Let's Connect
 
 <p align="left">
