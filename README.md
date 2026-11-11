@@ -1,4 +1,4 @@
-# Hey there! I'm Reeya 👋
+# Hiee! I'm Reeya
 
 ### Exploring the intersection of Cybersecurity, AI & Software Development.
 
