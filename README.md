@@ -6,7 +6,7 @@ I'm a developer passionate about building things, exploring new technologies, an
 
 ---
 
-### 🧩 What I'm Exploring
+### What I'm Exploring
 
 - 🐧 Linux
 - 🔐 Cybersecurity & Network Security
@@ -20,7 +20,7 @@ I'm a developer passionate about building things, exploring new technologies, an
   <img src="https://skillicons.dev/icons?i=python,js,react,html,css,git,github,linux,vscode,vite" />
 </p>
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description |
 |---|---|
@@ -28,14 +28,14 @@ I'm a developer passionate about building things, exploring new technologies, an
 | [Say It Back](https://github.com/ree4yaa/say-it-back) | An interactive web-based communication project. |
 | [Tic-Tac-Toe](https://github.com/ree4yaa/tic-tac-toe) | A classic game built to practice web development fundamentals. |
 
-### 🌱 Currently Learning
+### Currently Learning
 
 - Strengthening my programming fundamentals.
 - Exploring cybersecurity tools and networking.
 - Understanding AI-powered automation.
 - Exploring open-source contribution opportunities.
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ree4yaa&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
@@ -46,7 +46,7 @@ I'm a developer passionate about building things, exploring new technologies, an
   <img src="https://streak-stats.demolab.com?user=ree4yaa&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🤝 Let's Connect
+### Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/reeya-pandey-02378a384">
