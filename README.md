@@ -38,7 +38,6 @@ I'm a developer passionate about building things, exploring new technologies, an
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ree4yaa&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ree4yaa&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
