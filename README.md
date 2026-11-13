@@ -8,11 +8,11 @@ I'm a developer passionate about building things, exploring new technologies, an
 
 ### What I'm Exploring
 
-- 🐧 Linux
-- 🔐 Cybersecurity & Network Security
-- 🤖 AI & Automation
-- 💻 Software Development
-- 🌐 FOSS
+- Linux
+- Cybersecurity & Network Security
+- AI & Automation
+- Software Development
+- FOSS
 
 ### Tech Stack & Tools
 
